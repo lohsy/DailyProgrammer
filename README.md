@@ -1,3 +1,2 @@
 # DailyProgrammer
-Reddit Daily Progammer Practice 
-http://www.reddit.com/r/dailyprogrammer
+[####Reddit Daily Progammer Practice](http://www.reddit.com/r/dailyprogrammer)
